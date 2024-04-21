@@ -1,0 +1,30 @@
+[
+{
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+        "name": "Apple",
+        "price": 0.99,
+        "description": "A red fruit, very nutritious."
+    }
+},
+{
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+        "name": "Banana",
+        "price": 1.99,
+        "description": "A yellow fruit, good for shakes."
+    }
+},
+{
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+        "name": "Orange",
+        "price": 1.25,
+        "description": "An orange fruit, good for juice."
+    }
+}
+
+]
