@@ -9,5 +9,5 @@ def product_list(request):
 
 def product_detail(request, id):
     product = get_object_or_404(Product, id=id)
-    return render(request, 'product/detail.html', {'product': product})
+    return render(request, 'products/detail.html', {'product': product})
 
